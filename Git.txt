@@ -1,0 +1,7 @@
+git init
+git remote add origin repository address
+git pull origin master 지정해놓은 repository에서 모든 자료를 끌오온다
+git status 현재 git과 폴더의 싱크상태 확인
+git add . 변경파일으 tracking 
+git commit -m "message" 커밋을 달아준다
+git push origin +master 실제 깃에 넣는다
